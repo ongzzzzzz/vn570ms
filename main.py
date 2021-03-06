@@ -8,3 +8,5 @@ print(rich_header is not None)
 
 
 # hunch: a C or C# or C++ file made in MSVC 
+
+print('HI')
